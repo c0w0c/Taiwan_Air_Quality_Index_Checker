@@ -1,0 +1,31 @@
+{
+  "name": "taiwan_air_quality_index_checker",
+  "version": "1.0.0",
+  "description": "使用經緯度查詢最近空氣監測站資料",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0w0c/Taiwan_Air_Quality_Index_Checker.git"
+  },
+  "type": "module",
+  "keywords": [
+    "taiwan",
+    "opendata",
+    "AirQualityIndex"
+  ],
+  "author": "c0w0c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0w0c/Taiwan_Air_Quality_Index_Checker/issues"
+  },
+  "homepage": "https://github.com/c0w0c/Taiwan_Air_Quality_Index_Checker#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
