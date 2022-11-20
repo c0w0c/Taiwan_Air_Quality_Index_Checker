@@ -1,7 +1,7 @@
 {
   "name": "taiwan_air_quality_index_checker",
   "version": "1.0.0",
-  "description": "使用經緯度查詢最近空氣監測站資料",
+  "description": "使用經緯度查詢最近台灣空氣監測站資料",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
